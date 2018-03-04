@@ -90,9 +90,9 @@ public class MainClass extends HttpServlet {
 			else if(st.startsWith("\\image")) {
 				st=st.substring(7);
 				st= "Resources_FOEVS_ATG/" + path + st;//path already contains "/" at the end
-				sw.println("<img class=image src=\""
+				sw.println("<p style=\"text-align: center\"><img style=\"height: 300px\" src=\""
 						+st
-						+"\" style=\"width: 300px; text-align: center;\">");
+						+"\">");
 				continue;
 			}
 			sw.println(st);
@@ -138,7 +138,7 @@ public class MainClass extends HttpServlet {
 					sw.println("</ul>\n</li>");
 					tab=0;
 				}
-				sw.println("<li><a href=\"?\">"+a+" &#9656</a>");
+				sw.println("<li><a href=\"\">"+a+" &#9656</a>");
 			}
 		}
 	}

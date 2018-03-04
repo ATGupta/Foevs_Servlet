@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Foevs</title>
+        <title>Facts of Environmental Science</title>
         <link href="/styles.css" type="text/css" rel="stylesheet"/>
     </head>
     <body >
@@ -18,9 +18,9 @@
         <div id="nav">
             <ul>
                 <li>
-                    <a href="?">Home &#9662</a>
+                    <a href="./">Home &#9662</a>
                     <ul>
-                        <li><a href="/Home/acknowledgement/data">Acknowledgements</a></li>
+                        <li><a href="/Home/acknowledgement/info.html">Acknowledgements</a></li>
                     </ul>
                 </li>
                 <li>
@@ -28,7 +28,7 @@
 \takefromchapterMenu
 				</li>
                 <li>
-                	<a href="?">Contact</a>
+                	<a href="/Contact/contact/info.html">Contact</a>
                 </li>
             </ul>
         </div>

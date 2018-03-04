@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Foevs</title>
+        <title>Facts of Environmental Science</title>
         <link href="Resources_FOEVS_ATG/styles.css" type="text/css" rel="stylesheet"/>
     </head>
     <body >
@@ -18,7 +18,7 @@
         <div id="nav">
             <ul>
                 <li>
-                    <a href="?">Home &#9662</a>
+                    <a href="./">Home &#9662</a>
                     <ul>
                         <li><a href="?un=Home&ch=acknowledgement">Acknowledgements</a></li>
                     </ul>
@@ -28,7 +28,7 @@
 \takefromchapterMenu
 				</li>
                 <li>
-                	<a href="?un=contact">Contact</a>
+                	<a href="?un=Contact&ch=contact">Contact</a>
                 </li>
             </ul>
         </div>
