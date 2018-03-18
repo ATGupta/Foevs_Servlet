@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Facts of Environmental Science</title>
+        <title>Facts of Environmental Science - EVS for Class 12 students [ISC board], undergrads, and other folks.</title>
         <link rel="shortcut icon" href="\title_image"/>
-        <link href="/styles.css" type="text/css" rel="stylesheet"/>
+        <link href="\styles.css" type="text/css" rel="stylesheet"/>
         
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<script>
@@ -33,8 +33,7 @@
                     </ul>
                 </li>
                 <li>
-               		<a href="">Chapters &#9662</a>
-\takefromchapterMenu
+               		<a href="\Index/contents/info.html">Contents</a>
 				</li>
                 <li>
                 	<a href="/Contact/contact/info.html">Contact</a>
