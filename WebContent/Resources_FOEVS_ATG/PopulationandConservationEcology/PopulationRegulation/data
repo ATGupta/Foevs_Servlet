@@ -1,0 +1,62 @@
+<h2 style="text-align: center">POPULATION REGULATION</h2>
+
+<p>Population regulation is the control of the size of a population. This regulation implies a tendency of the population to achieve or return to a size at equilibrium or in harmony with the surrounding environment. If a population tends to remain about the same size, then it is said to be STABLE.
+
+<p>There are two types of a population regulation: -
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 1. Density dependent: - This regulation depends on the density of a population [number of organisms living in a unit area].
+<br>&nbsp;&nbsp;&nbsp;&nbsp; For example, the density of mosquitoes is high in plains but is nil in hilly areas. So, this population regulation is density-wise.
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 2. Density Independent: - It does not depend on the density but the total global or areal population.
+<br>&nbsp;&nbsp;&nbsp;&nbsp; For example, human population is increasing globally. So, we need to regulate it. This is density independent.
+<p style="text-align: right">(http://raywinstead.com/popreg.shtm)
+
+<p><b>Growth without population regulation: -</b> 
+<p>Without population regulation, the population of any organism will either increase or decrease at a higher rate. If population increases, the species may exploit its environment and if the population decreases, it will be exploited and mastered by some other species and so on. This will result into a danger for biodiversity on earth. This increase / decrease is directly proportional to the factors which affect the population of an area such as temperature, water, food, shelter, whether.
+
+<p><b>Simple human population regulation: -</b> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&#8226 Controlling birth rate
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226 Self-awareness
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226 Education emphasis, especially for women
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226 Late marriage
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226 Family Planning facilities
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&#8226 Voluntary initiatives
+
+<p><b>Exponential growth curve: -</b> 
+<p>See previous chapter - Malthusian Model.
+
+<p>Logistic growth curve: - 
+
+\image image1
+<p style="text-align: center">Fig. 1. Logistic Growth Curve
+
+<p>A logistic growth function or a logistic curve is one neat package containing two characteristic kinds of exponential growth.
+<p>It is generally used as an S-shaped graph of population versus time (human population).
+<p>Logistic curve was given by Pierre Francois Verhulst who studied it in relation to population growth.
+<p>A simple logistic curve may be derived by a simple formula - 
+
+<p style="text-align: center"><i>P(t) = <sup>1</sup>&frasl;<sub>1 + e<sup>-t</sup></sub></i>           
+
+<p>where,
+<br>t =  time;
+<br>P(t) = Population after time t;
+<br>e = exponential = &#8730;(1/1! + 2/2! + 3/3! + 4/4! ...... + &#8734;) &asymp; 2.718
+<p style="text-align: right">(http://en.wikipedia.org/wiki/Logistic_function)
+
+<p><b>Factors effecting population size: -</b> 
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 1. Space
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shelter, refuge, nesting / denning sites
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 2. Food (energy / nutrients)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quality
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quantity
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 3. Water
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 4. Territories
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 5. Predators
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 6. Whether and climate
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether directly influences growth rates & survival.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether affects the supply of food and shelter.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whether Catastrophes [disasters] increase mortality.
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 7. Parasites and diseases
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 8. Disasters
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Natural
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Man-made
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 9. Self-regulation
+<p style="text-align: right">(http://loki.stockton.edu/~cromartj/populationbio/population_regulation.htm)
